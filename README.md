@@ -17,8 +17,9 @@ in a browser window you sign in to yourself, so the plan does not matter and the
 - "What is on Tuesday's schedule, and who is assigned to each job?"
 - "Find the job on Elm Street and add a note that the part is on order."
 
-It creates and edits drafts like customers, jobs, estimates and notes when you ask. Anything that reaches a
-customer, moves money, deletes something or changes settings waits for your yes first.
+It asks for your yes before it creates or changes anything in your account, such as a customer, job, estimate
+or note. If you would rather it make drafts like those without asking, tell it. Anything that reaches a customer,
+moves money, deletes something or changes settings always waits for your yes.
 
 ## Requirements
 
